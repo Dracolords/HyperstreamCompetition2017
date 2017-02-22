@@ -1,0 +1,14 @@
+.header ul {
+    color: #00cc00;
+    text-align: right;
+    list-style: none;
+    font-size: 24px;
+    margin: 0 0 5px 0;
+}
+.header-links {
+    background-color:darkslategray;
+}
+.header {
+    background-color: black;
+    height: 30px;
+}
